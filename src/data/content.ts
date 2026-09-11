@@ -316,6 +316,11 @@ export const deliveryCategories: DeliveryCategory[] = [
         files: [{ id: 'diagrama-de-sequencia-solicitar-reservas-img', kind: 'image', path: '/entregas/diagramas/diagrama-de-sequencia-solicitar-reservas.png', thumbPath: '/entregas/diagramas/diagrama-de-sequencia-solicitar-reservas-thumb.webp' }],
       },
       {
+        id: 'diagrama-de-estado-solicitar-reserva',
+        title: 'Diagrama de Estado — Solicitar Reserva',
+        files: [{ id: 'diagrama-de-estado-solicitar-reserva-img', kind: 'image', path: '/entregas/diagramas/diagrama-de-estado-solicitar-reserva.png', thumbPath: '/entregas/diagramas/diagrama-de-estado-solicitar-reserva-thumb.webp' }],
+      },
+      {
         id: 'diagrama-de-sequencia-ver-solicitacoes',
         title: 'Diagrama de Sequência — Ver Solicitações',
         files: [{ id: 'diagrama-de-sequencia-ver-solicitacoes-img', kind: 'image', path: '/entregas/diagramas/diagrama-de-sequencia-ver-solicitacoes.png', thumbPath: '/entregas/diagramas/diagrama-de-sequencia-ver-solicitacoes-thumb.webp' }],

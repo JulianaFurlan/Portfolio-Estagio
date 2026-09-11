@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Documentos originais (especificações e relatório) marcados como
+# confidenciais pela instituição / com nome de terceiro na capa — não
+# publicar neste repositório público sem revisão. Ver conversa com a aluna.
+artefatos-originais/Documentos/
